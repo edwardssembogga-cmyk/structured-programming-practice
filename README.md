@@ -28,3 +28,8 @@ C HOW TO PROGRAM PAGE 178 EXE 3.20(SALARY CALCULATOR)
 ## Exercise 5 (loop with calculation)
 Program  reads the diameter of a circle as a double value  and computes and prints the diameter the circumfrance and the area
 REFERENCE:C HOW TO PROGRAM exe 3.41
+
+## Exercise 6 (loop with user input)
+program  reads the diameter of a circle as a double value  and computes and prints the diameter the circumfrance and the area
+REFERENCE:C HOW TO PROGRAM exe 3.41
+This program is the same with that of exercise 5 because the idea was the same and i found the program applicable.
