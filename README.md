@@ -33,3 +33,7 @@ REFERENCE:C HOW TO PROGRAM exe 3.41
 program  reads the diameter of a circle as a double value  and computes and prints the diameter the circumfrance and the area
 REFERENCE:C HOW TO PROGRAM exe 3.41
 This program is the same with that of exercise 5 because the idea was the same and i found the program applicable.
+
+## Exercise 6 (loop with decision)
+A program that calculates and prints the sum of all multiples of 7 from 1 to 100.
+REFERENCE: C PROGRAMING PAGE 225 EXE 4.11
