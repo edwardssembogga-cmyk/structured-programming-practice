@@ -23,3 +23,8 @@ REFERENCE: C HOW TO PROGRAM PAGE 225 EXERCISE 4.12
 ## Exercise 4 (DECISIONS) 
 This program determines the Gross pay of each and several employees
 C HOW TO PROGRAM PAGE 178 EXE 3.20(SALARY CALCULATOR)
+
+
+## Exercise 5 (loop with calculation)
+Program  reads the diameter of a circle as a double value  and computes and prints the diameter the circumfrance and the area
+REFERENCE:C HOW TO PROGRAM exe 3.41
