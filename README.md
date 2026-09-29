@@ -15,3 +15,6 @@ Practicing to make myself better
  The program alllows user input for the respective variables and a calculation is performed to show the final output.
 
 
+## Exercise 2 (BASIC LOOPS)
+This program calculates and prints a list of all prime numbers from 1 to 100.
+REFERENCE: C HOW TO PROGRAM PAGE 225 EXERCISE 4.12 
