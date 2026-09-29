@@ -34,6 +34,12 @@ program  reads the diameter of a circle as a double value  and computes and prin
 REFERENCE:C HOW TO PROGRAM exe 3.41
 This program is the same with that of exercise 5 because the idea was the same and i found the program applicable.
 
-## Exercise 6 (loop with decision)
+## Exercise 7 (loop with decision)
 A program that calculates and prints the sum of all multiples of 7 from 1 to 100.
 REFERENCE: C PROGRAMING PAGE 225 EXE 4.11
+
+## Exercise 8 (interactive counsel)
+c PROGRAMMING page 226 exercise 4.19
+The program asks the user to make a choice from 1 to 6 the also asks for the quantity the user wants
+The program calculates the total retail price and if the user chooses option 6 the program stops running.
+If the user inputs a negative quantity the program stops as well
